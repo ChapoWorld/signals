@@ -111,7 +111,7 @@ def main():
         except Exception as e:
             print(f"Грешка: {e}")
             
-        time.sleep(15)
+        time.sleep(5)
 
 if __name__ == "__main__":
     main()
